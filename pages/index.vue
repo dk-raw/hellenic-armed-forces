@@ -2,7 +2,7 @@
   <div>
     <div class="row m-0">
       <div class="col-md d-flex align-items-center justify-content-center">
-        <h1 class="display-2 text-center">
+        <h1 class="display-3 fw-normal text-center">
           <img
             :src="require('@/assets/images/haf-logo.png')"
             alt="haf logo"
@@ -16,17 +16,17 @@
         <div class="box-container text-center">
           <a href="https://haf.dkatsios.ml" target="_blank" class="box-link">
             <div class="box box--1">
-              <h3 class="display-6 mb-0">Hellenic Air Force</h3>
+              <h3 class="display-6 fw-bold mb-0">Air Force</h3>
             </div>
           </a>
           <a href="https://hn.dkatsios.ml" target="_blank" class="box-link">
             <div class="box box--2">
-              <h3 class="display-6 mb-0">Hellenic Navy</h3>
+              <h3 class="display-6 fw-normal mb-0">Navy</h3>
             </div>
           </a>
           <a href="https://ha.dkatsios.ml" target="_blank" class="box-link">
             <div class="box box--3">
-              <h3 class="display-6 mb-0">Hellenic Army</h3>
+              <h3 class="display-6 fw-normal mb-0">Army</h3>
             </div>
           </a>
         </div>
